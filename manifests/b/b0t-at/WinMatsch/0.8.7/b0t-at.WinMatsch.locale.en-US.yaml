@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+# Created with winmatsch
+
+PackageIdentifier: b0t-at.WinMatsch
+PackageVersion: 0.8.7
+PackageLocale: en-US
+Publisher: b0t.at
+PublisherUrl: https://github.com/b0t-at
+PublisherSupportUrl: https://github.com/b0t-at/winmatsch/issues
+PackageName: WinMatsch
+PackageUrl: https://github.com/b0t-at/winmatsch
+License: MIT
+LicenseUrl: https://github.com/b0t-at/winmatsch/blob/v0.8.7/LICENSE
+ShortDescription: Cross-platform WinGet manifest automation.
+Description: Analyzes installers, generates and validates WinGet manifests, and supports an explicit fork-based submission workflow.
+Tags:
+- winget
+- manifests
+- automation
+ReleaseNotesUrl: https://github.com/b0t-at/winmatsch/releases/tag/v0.8.7
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
